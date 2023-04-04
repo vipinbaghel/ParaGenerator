@@ -1,0 +1,47 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(45, 45, 45);
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    min-height: 100vh;
+    background-color: white;
+    padding: 100px 50px;
+    box-sizing: border-box;
+}
+
+
+.container h1{
+    background-color: white;
+    padding: 0 0 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#noofWords {
+    background-color: white;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 15px 0;
+    width: 50%;
+    outline: none;
+}
+
+button {
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    font: 100 sans-serif;
+}
+
+.paras {
+    background-color: #e8e2d8;
+    color: rgb(48, 38, 38);
+    margin: 1vmax 0;
+    border-radius: 5px;
+    line-height: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
